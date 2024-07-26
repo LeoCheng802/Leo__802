@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE jpg>
+<jpg lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -140,4 +140,4 @@
     <a href="">選單</a>
 </nav>
 </body>
-</html>
+</jpg>
