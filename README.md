@@ -25,7 +25,7 @@
 <body background="https://private-user-images.githubusercontent.com/176408495/352588510-d9e9701b-a155-4329-970d-4771b8ea2e88.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIwMTEwNDUsIm5iZiI6MTcyMjAxMDc0NSwicGF0aCI6Ii8xNzY0MDg0OTUvMzUyNTg4NTEwLWQ5ZTk3MDFiLWExNTUtNDMyOS05NzBkLTQ3NzFiOGVhMmU4OC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyNlQxNjE5MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYTQ1OTlhNDJmNWM2NWFhZmE2ZWE0ZDgwOTc0NDNmNjVhMzRkMGFiMDk1YjI1OWYwNGJjZjZhMGNkNGNiNDU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.BzEuKTmtNlPz5LY2RMdW91ML3y47DNdEIMUOOfyZDWo">
     <h1 style="text-align:center">
         騰揚開發會場佈置</h1>
-    <h2 style="text-align:center">**歡　迎　來　電**<br/>**０９３６－４９５－３８０**<br/>**黃　先　生**</h2>
+    <h2 style="text-align:center">歡　迎　來　電<br/>０９３６－４９５－３８０<br/>黃　先　生</h2>
     <h2.1>
         <img
             src="https://private-user-images.githubusercontent.com/176408495/352588466-c182ec9a-e415-4b1c-82a5-a9d2e454e861.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIwMDg3NDAsIm5iZiI6MTcyMjAwODQ0MCwicGF0aCI6Ii8xNzY0MDg0OTUvMzUyNTg4NDY2LWMxODJlYzlhLWU0MTUtNGIxYy04MmE1LWE5ZDJlNDU0ZTg2MS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyNlQxNTQwNDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMzVhM2RiYTYwYmNlOTdjZGU5Mzc3Njg5YzE1Y2JiYTI2MmM3NGJkNGY5YTMzMjVjN2Q4YmMyYzM2NjM3MzQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.NSuJsgfFdXRRE8JkJbS71P1RMwodNgav_cLBudUgQvg"
@@ -39,8 +39,7 @@
     <h4 style="text-align:center">
         治喪追思🏵️孝獅護主🏵️靈獅接引🏵️<br/>
         雄威體面🎩莊嚴隆重🎩代送禮品🎩</h4>
-    <h5 style="text-align:center" {color: rgb(126, 50, 50);
-        font-size: 40px;}>
+    <h5 style="text-align:center">
         #９～１３層超大巨無霸米塔<br/>
         #５～１３層　幻彩平安米塔<br/>
         #守孝靈獅　#米櫃靈獅<br/>
@@ -48,7 +47,7 @@
         #持經大佛　#渡化觀音<br/>
         #觀音蓮花塔　#鑽石金條塔<br/>
         專車配送🚚長期優惠 🤝<br/>歡迎各區<br/>禮儀同業 各大通路 洽談配合 ❗️</h5>
-    <hr size="3"color='#000000'>
+==================================================================================================================================================================================================================================================================
     <p style="text-align:center"><B>🦁️開幕囍獅🦁️<br/>LED大字幕</B></p>
         <img
             src="https://private-user-images.githubusercontent.com/176408495/352588534-0148f7b5-fa73-4b9f-bc2f-5ec773422720.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIwMDkzNzksIm5iZiI6MTcyMjAwOTA3OSwicGF0aCI6Ii8xNzY0MDg0OTUvMzUyNTg4NTM0LTAxNDhmN2I1LWZhNzMtNGI5Zi1iYzJmLTVlYzc3MzQyMjcyMC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyNlQxNTUxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MjExM2VmMzFmNDNjZjdiMzg3NTg5YTcxZGY0Y2ZhMjc1ODQwYmFiYzFiMmVhMTI2MmEwYzE2MDg0ZmI5NmE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.oin-WojXqJCVJ1g__p-D2WhJHIdp96iCzTc5_PQNoC4"
