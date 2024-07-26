@@ -77,7 +77,7 @@
             Hspace="450"
             alt="展櫃靈獅"
             width="1000"
-            height="550"
+            height="750"
             title="展櫃靈獅">
     <p style="text-align:center"><B>📿持經觀音大佛🦁️守孝靈獅<br/>LED大字幕</B></p>
         <img
