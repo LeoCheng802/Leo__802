@@ -1,4 +1,4 @@
-<!DOCTYPE jpg>
+<!DOCTYPE style="text-align:center">
 <jpg lang="en">
 <head>
     <meta charset="UTF-8">
