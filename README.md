@@ -29,7 +29,7 @@
     <h2.1>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%90%8D%E7%89%87.jpg"
-            Hspace="215"
+            Hspace=""
             alt="名片"
             width="720"
             height="432"
