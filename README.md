@@ -1,5 +1,5 @@
-<!DOCTYPE jpg>
-<jpg lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,17 +22,17 @@
         image{float:center}
     </style>
 </head>
-<body background="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/荷花3.jpg">
+<body background="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%8D%B7%E8%8A%B13.jpg">
     <h1 style="text-align:center">
         騰揚開發會場佈置</h1>
     <h2 style="text-align:center">歡　迎　來　電<br/>０９３６－４９５－３８０<br/>黃　先　生</h2>
     <h2.1>
         <img
-            src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/名片.jpg"
-            Hspace="700"
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%90%8D%E7%89%87.jpg"
+            Hspace="325"
             alt="名片"
-            width="500"
-            height="300"
+            width="720"
+            height="432"
             title="名片"></h2.1>
     <h3 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=5>🚚💨　🚚　　　　　🚚💨　　　　　　🚚💨　　🚚　　　　🚚　　🚚　　　🚚💨</marquee></h3>
@@ -50,7 +50,7 @@
     <hr size="3"color='#000000'>
     <p style="text-align:center"><B>🦁️開幕囍獅🦁️<br/>LED大字幕</B></p>
         <img
-            src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/開幕囍獅.jpg"
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E9%96%8B%E5%B9%95%E5%9B%8D%E7%8D%85.jpg"
             Hspace="450"
             alt="開幕囍獅"
             width="1000"
@@ -58,23 +58,31 @@
             title="開幕囍獅">
     <p style="text-align:center"><B>🦁️守孝靈獅🦁️<br/>LED大字幕</B></p>
         <img
-            src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/守孝靈獅1.jpg"
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%AE%88%E5%AD%9D%E9%9D%88%E7%8D%85.jpg"
             Hspace="450"
-            alt="守孝靈獅"
+            alt="守孝靈獅1"
             width="1000"
             height="600"
-            title="守孝靈獅">
-    <p style="text-align:center"><B>🦁️展櫃靈獅🦁️<br/>LED大字幕</B></p>
+            title="守孝靈獅1">
+    <p style="text-align:center"><B>🦁️守孝靈獅🦁️<br/>LED大字幕</B></p>
         <img
-            src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/守孝靈獅2.jpg"
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%AE%88%E5%AD%9D%E9%9D%88%E7%8D%852.jpg"
             Hspace="450"
-            alt="守孝靈獅"
+            alt="守孝靈獅2"
+            width="1000"
+            height="600"
+            title="守孝靈獅2">
+    <p style="text-align:center"><B>🦁️酒櫃靈獅🦁️<br/>LED大字幕</B></p>
+        <img
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E9%85%92%E6%AB%83%E9%9D%88%E7%8D%85.jpg"
+            Hspace="450"
+            alt="酒櫃靈獅"
             width="1000"
             height="550"
-            title="守孝靈獅">
+            title="酒櫃靈獅">
     <p style="text-align:center"><B>📿持經觀音大佛🦁️守孝靈獅<br/>LED大字幕</B></p>
         <img
-            src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/持經大佛.jpg"
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E6%8C%81%E7%B6%93%E5%A4%A7%E4%BD%9B.jpg"
             Hspace="450"
             alt="持經觀音大佛"
             width="1000"
@@ -82,7 +90,7 @@
             title="持經觀音大佛、守孝靈獅">
     <p style="text-align:center"><B>꧁渡化觀音小佛꧂<br/>🈶LED大字幕</B></p>
         <img
-            src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/渡化觀音.jpg"
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E6%B8%A1%E5%8C%96%E8%A7%80%E9%9F%B3.jpg"
             Hspace="450"
             alt="渡化觀音小佛"
             width="1000"
@@ -90,7 +98,7 @@
             title="渡化觀音小佛">
     <p style="text-align:center"><B>🐉盤龍巨龍🐉<br/>LED大字幕</B></p>
         <img
-            src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/盤龍巨龍.jpg"
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E7%9B%A4%E9%BE%8D%E5%B7%A8%E9%BE%8D.jpg"
             Hspace="450"
             alt="盤龍巨龍"
             width="1000"
@@ -98,23 +106,51 @@
             title="盤龍巨龍">
     <p style="text-align:center"><B>🗼９～１３層🗼巨無霸米塔<br/>LED大字幕</B></p>
         <img
-            src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/超級巨無霸米塔.jpg"
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%941.jpg"
             Hspace="450"
-            alt="超級巨無霸米塔"
+            alt="超級巨無霸米塔1"
             width="1000"
             height="1500"
-            title="超級巨無霸米塔">
+            title="超級巨無霸米塔1">
+        <img
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%942.jpg"
+            Hspace="450"
+            alt="超級巨無霸米塔2"
+            width="1000"
+            height="1500"
+            title="超級巨無霸米塔2">
+        <img
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
+            Hspace="450"
+            alt="超級巨無霸米塔3"
+            width="1000"
+            height="1500"
+            title="超級巨無霸米塔3">
     <p style="text-align:center"><B>🗼９～１３層🗼巨無霸米塔<br/>LED大字幕</B></p>
         <img
-            src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/中型巨無霸米塔.jpg"
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%941.jpg"
             Hspace="450"
-            alt="中型巨無霸米塔"
+            alt="中型巨無霸米塔1"
             width="1000"
             height="1500"
-            title="中型巨無霸米塔">
+            title="中型巨無霸米塔1">
+        <img
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%942.jpg"
+            Hspace="450"
+            alt="中型巨無霸米塔2"
+            width="1000"
+            height="1500"
+            title="中型巨無霸米塔2">
+        <img
+            src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
+            Hspace="450"
+            alt="中型巨無霸米塔3"
+            width="1000"
+            height="1500"
+            title="中型巨無霸米塔3">
     <p style="text-align:center"><B>🗼５～１３層🗼幻彩米塔<br/>LED大字幕</B></p>
     <img
-        src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/幻彩米塔.jpg"
+        src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%B9%BB%E5%BD%A9%E7%B1%B3%E5%A1%94.jpg"
         Hspace="450"
         alt="幻彩米塔"
         width="1000"
@@ -122,7 +158,7 @@
         title="幻彩米塔">
     <p style="text-align:center"><B>🗼５～１３層🗼平安米塔<br/>LED大字幕</B></p>
     <img
-        src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/平安米塔.jpg"
+        src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%B9%B3%E5%AE%89%E7%B1%B3%E5%A1%94.jpg"
         Hspace="450"
         alt="平安米塔"
         width="1000"
@@ -130,14 +166,14 @@
         title="平安米塔">
     <p style="text-align:center"><B>💎金磚塔💎<br/>🏵️蓮花塔🏵️<br/></B></p>
     <img
-        src="https://github.com/LeoCheng802/Leo__802/blob/main/assets/images/蓮花塔、金磚塔.jpg"
+        src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%93%AE%E8%8A%B1%E5%A1%94%E3%80%81%E9%87%91%E7%A3%9A%E5%A1%94.jpg"
         Hspace="450"
         alt="蓮花塔、金磚塔"
         width="1000"
         height="800"
         title="蓮花塔、金磚塔">
 <nav>
-    <a href="">選單</a>
+    <a href="">回最上層</a>
 </nav>
 </body>
-</jpg>
+</html>
