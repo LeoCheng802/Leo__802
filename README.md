@@ -38,8 +38,11 @@
         <marquee width="1000" direction=left scrollamount=5>🚚💨　🚚　　　　　🚚💨　　　　　　🚚💨　　🚚　　　　🚚　　🚚　　　🚚💨
         </marquee></h3>
     <h3.1 style="text-align:center">
-        <marquee width="1000" direction=left scrollamount=50>🚚💨
+        <marquee width="1000" direction=left scrollamount=20>🚚
         </marquee></h3.1>
+    <h3.2 style="text-align:center">
+        <marquee width="1000" direction=left scrollamount=50>🚚💨
+        </marquee></h3.2>
     <h4 style="text-align:center">
         治喪追思🏵️孝獅護主🏵️靈獅接引🏵️<br/>
         雄威體面🎩莊嚴隆重🎩代送禮品🎩</h4>
