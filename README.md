@@ -110,19 +110,19 @@
             Hspace=""
             alt="超級巨無霸米塔1"
             width="1000"
-            height="750"
+            height="500"
             title="超級巨無霸米塔1">
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%942.jpg"
             Hspace=""
             alt="超級巨無霸米塔2"
             width="480"
-            height="400"
+            height="500"
             title="超級巨無霸米塔2"><img src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
             Hspace=""
             alt="超級巨無霸米塔3"
             width="480"
-            height="400"
+            height="500"
             title="超級巨無霸米塔3">
     <p style="text-align:center"><B>🗼９～１３層🗼中型巨無霸米塔<br/>LED大字幕</B></p>
         <img
@@ -137,12 +137,12 @@
             Hspace=""
             alt="中型巨無霸米塔2"
             width="480"
-            height="350"
+            height="500"
             title="中型巨無霸米塔2">　<img src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
             Hspace=""
             alt="中型巨無霸米塔3"
             width="480"
-            height="350"
+            height="500"
             title="中型巨無霸米塔3">
     <p style="text-align:center"><B>🗼５～１３層🗼幻彩米塔<br/>LED大字幕</B></p>
     <img
@@ -166,7 +166,7 @@
         Hspace=""
         alt="蓮花塔、金磚塔"
         width="1000"
-        height="400"
+        height="350"
         title="蓮花塔、金磚塔">
 <nav>
     <a href="">回最上層</a>
