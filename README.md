@@ -6,18 +6,18 @@
     <title>產品介紹</title>
     <style>
         p{color:red;
-        font-size: 25px;}
+        font-size="25px";}
         h1{color: darkorange;
-        font-size: 50px;
+        font-size="50px";
         background-color: black}
         h2{color: rgb(240, 34, 240);
-        font-size: 30px;}
-        h3{font-size: 50px;}
+        font-size="30px";}
+        h3{font-size="50px";}
         h4{color: rgb(50, 167, 221);
-        font-size: 30px;
+        font-size="30px";
         background-color: rgb(231, 209, 179);}
         h5{color: rgb(126, 50, 50);
-        font-size: 25px;}
+        font-size="25px";}
         a{font-size: 30px;}
         image{float:center}
     </style>
@@ -43,7 +43,7 @@
     <h3.2 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=50>🚚💨
         </marquee></h3.2>
-    <h4 style="text-align:center" font-size="50px>
+    <h4 style="text-align:center">
         治喪追思🏵️孝獅護主🏵️靈獅接引🏵️<br/>
         雄威體面🎩莊嚴隆重🎩代送禮品🎩</h4>
     <h5 style="text-align:center">
