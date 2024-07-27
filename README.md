@@ -78,7 +78,7 @@
             Hspace=""
             alt="酒櫃靈獅"
             width="1000"
-            height="550"
+            height="700"
             title="酒櫃靈獅">
     <p style="text-align:center"><B>📿持經觀音大佛🦁️守孝靈獅<br/>LED大字幕</B></p>
         <img
@@ -150,7 +150,7 @@
         Hspace=""
         alt="幻彩米塔"
         width="1000"
-        height="1500"
+        height="1200"
         title="幻彩米塔">
     <p style="text-align:center"><B>🗼５～１３層🗼平安米塔<br/>LED大字幕</B></p>
     <img
