@@ -29,7 +29,7 @@
     <h2.1>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%90%8D%E7%89%87.jpg"
-            Hspace=""
+            Hspace="125"
             alt="名片"
             width="720"
             height="432"
@@ -109,22 +109,22 @@
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%941.jpg"
             Hspace=""
             alt="超級巨無霸米塔1"
-            width="1000"
-            height="1500"
+            width="500"
+            height="800"
             title="超級巨無霸米塔1">
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%942.jpg"
             Hspace=""
             alt="超級巨無霸米塔2"
-            width="1000"
-            height="1500"
+            width="500"
+            height="800"
             title="超級巨無霸米塔2">
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
             Hspace=""
             alt="超級巨無霸米塔3"
-            width="1000"
-            height="1500"
+            width="500"
+            height="800"
             title="超級巨無霸米塔3">
     <p style="text-align:center"><B>🗼９～１３層🗼巨無霸米塔<br/>LED大字幕</B></p>
         <img
@@ -132,21 +132,21 @@
             Hspace=""
             alt="中型巨無霸米塔1"
             width="1000"
-            height="1500"
+            height="800"
             title="中型巨無霸米塔1">
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%942.jpg"
             Hspace=""
             alt="中型巨無霸米塔2"
-            width="1000"
-            height="1500"
+            width="500"
+            height="800"
             title="中型巨無霸米塔2">
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
             Hspace=""
             alt="中型巨無霸米塔3"
-            width="1000"
-            height="1500"
+            width="500"
+            height="800"
             title="中型巨無霸米塔3">
     <p style="text-align:center"><B>🗼５～１３層🗼幻彩米塔<br/>LED大字幕</B></p>
     <img
