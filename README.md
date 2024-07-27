@@ -136,7 +136,9 @@
             alt="中型巨無霸米塔2"
             width="250"
             height="700"
-            title="中型巨無霸米塔2"><img src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
+            title="中型巨無霸米塔2">
+            <img src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%942.jpg" width="250" height="700"><img src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%942.jpg" width="250" height="700">
+            <img src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
             Hspace=""
             alt="中型巨無霸米塔3"
             width="250"
