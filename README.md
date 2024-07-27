@@ -29,7 +29,7 @@
     <h2.1>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%90%8D%E7%89%87.jpg"
-            Hspace="125"
+            Hspace=""
             alt="名片"
             width="720"
             height="432"
@@ -47,14 +47,14 @@
         #持經大佛　#渡化觀音<br/>
         #觀音蓮花塔　#鑽石金條塔<br/>
         專車配送🚚長期優惠 🤝<br/>歡迎各區<br/>禮儀同業 各大通路 洽談配合 ❗️</h5>
-    —————————————————————————————————————————————————————————————
+    —————————————————————
     <p style="text-align:center"><B>🦁️開幕囍獅🦁️<br/>LED大字幕</B></p>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E9%96%8B%E5%B9%95%E5%9B%8D%E7%8D%85.jpg"
             Hspace=""
             alt="開幕囍獅"
             width="1000"
-            height="700"
+            height="350"
             title="開幕囍獅">
     <p style="text-align:center"><B>🦁️守孝靈獅🦁️<br/>LED大字幕</B></p>
         <img
@@ -62,7 +62,7 @@
             Hspace=""
             alt="守孝靈獅1"
             width="1000"
-            height="600"
+            height="300"
             title="守孝靈獅1">
     <p style="text-align:center"><B>🦁️守孝靈獅🦁️<br/>LED大字幕</B></p>
         <img
@@ -70,7 +70,7 @@
             Hspace=""
             alt="守孝靈獅2"
             width="1000"
-            height="600"
+            height="300"
             title="守孝靈獅2">
     <p style="text-align:center"><B>🦁️酒櫃靈獅🦁️<br/>LED大字幕</B></p>
         <img
@@ -78,7 +78,7 @@
             Hspace=""
             alt="酒櫃靈獅"
             width="1000"
-            height="700"
+            height="350"
             title="酒櫃靈獅">
     <p style="text-align:center"><B>📿持經觀音大佛🦁️守孝靈獅<br/>LED大字幕</B></p>
         <img
@@ -86,7 +86,7 @@
             Hspace=""
             alt="持經觀音大佛"
             width="1000"
-            height="600"
+            height="300"
             title="持經觀音大佛、守孝靈獅">
     <p style="text-align:center"><B>꧁渡化觀音小佛꧂<br/>🈶LED大字幕</B></p>
         <img
@@ -94,7 +94,7 @@
             Hspace=""
             alt="渡化觀音小佛"
             width="1000"
-            height="550"
+            height="300"
             title="渡化觀音小佛">
     <p style="text-align:center"><B>🐉盤龍巨龍🐉<br/>LED大字幕</B></p>
         <img
@@ -102,7 +102,7 @@
             Hspace=""
             alt="盤龍巨龍"
             width="1000"
-            height="900"
+            height="450"
             title="盤龍巨龍">
     <p style="text-align:center"><B>🗼９～１３層🗼超級巨無霸米塔<br/>LED大字幕</B></p>
         <img
@@ -110,19 +110,19 @@
             Hspace=""
             alt="超級巨無霸米塔1"
             width="1000"
-            height="1500"
+            height="750"
             title="超級巨無霸米塔1">
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%942.jpg"
             Hspace=""
             alt="超級巨無霸米塔2"
-            width="500"
-            height="800"
+            width="480"
+            height="400"
             title="超級巨無霸米塔2"><img src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
             Hspace=""
             alt="超級巨無霸米塔3"
-            width="500"
-            height="800"
+            width="480"
+            height="400"
             title="超級巨無霸米塔3">
     <p style="text-align:center"><B>🗼９～１３層🗼中型巨無霸米塔<br/>LED大字幕</B></p>
         <img
@@ -130,19 +130,19 @@
             Hspace=""
             alt="中型巨無霸米塔1"
             width="1000"
-            height="700"
+            height="350"
             title="中型巨無霸米塔1">
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%942.jpg"
             Hspace=""
             alt="中型巨無霸米塔2"
-            width="500"
-            height="700"
+            width="480"
+            height="350"
             title="中型巨無霸米塔2">　<img src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
             Hspace=""
             alt="中型巨無霸米塔3"
-            width="500"
-            height="700"
+            width="480"
+            height="350"
             title="中型巨無霸米塔3">
     <p style="text-align:center"><B>🗼５～１３層🗼幻彩米塔<br/>LED大字幕</B></p>
     <img
@@ -150,7 +150,7 @@
         Hspace=""
         alt="幻彩米塔"
         width="1000"
-        height="1200"
+        height="600"
         title="幻彩米塔">
     <p style="text-align:center"><B>🗼５～１３層🗼平安米塔<br/>LED大字幕</B></p>
     <img
@@ -158,7 +158,7 @@
         Hspace=""
         alt="平安米塔"
         width="1000"
-        height="450"
+        height="250"
         title="平安米塔">
     <p style="text-align:center"><B>💎金磚塔💎<br/>🏵️蓮花塔🏵️<br/></B></p>
     <img
@@ -166,7 +166,7 @@
         Hspace=""
         alt="蓮花塔、金磚塔"
         width="1000"
-        height="800"
+        height="400"
         title="蓮花塔、金磚塔">
 <nav>
     <a href="">回最上層</a>
