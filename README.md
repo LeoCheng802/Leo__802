@@ -32,7 +32,7 @@
             Hspace=""
             alt="名片"
             width="720"
-            height="432"
+            height="350"
             title="名片"></h2.1>
     <h3 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=5>🚚💨　🚚　　　　　🚚💨　　　　　　🚚💨　　🚚　　　　🚚　　🚚　　　🚚💨</marquee></h3>
