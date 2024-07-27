@@ -6,19 +6,19 @@
     <title>產品介紹</title>
     <style>
         p{color:red;
-        font-size="25px";}
+        font-size:25px;}
         h1{color: darkorange;
-        font-size="50px";
+        font-size:50px;
         background-color: black}
         h2{color: rgb(240, 34, 240);
-        font-size="30px";}
-        h3{font-size="50px";}
+        font-size:30px;}
+        h3{font-size:50px;}
         h4{color: rgb(50, 167, 221);
-        font-size="30px";
+        font-size:30px;
         background-color: rgb(231, 209, 179);}
         h5{color: rgb(126, 50, 50);
-        font-size="25px";}
-        a{font-size: 30px;}
+        font-size:25px;}
+        a{font-size:30px;}
         image{float:center}
     </style>
 </head>
