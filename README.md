@@ -32,7 +32,7 @@
             Hspace=""
             alt="名片"
             width="720"
-            height="350"
+            height="300"
             title="名片"></h2.1>
     <h3 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=5>🚚💨　🚚　　　　　🚚💨　　　　　　🚚💨　　🚚　　　　🚚　　🚚　　　🚚💨</marquee></h3>
@@ -47,7 +47,7 @@
         #持經大佛　#渡化觀音<br/>
         #觀音蓮花塔　#鑽石金條塔<br/>
         專車配送🚚長期優惠 🤝<br/>歡迎各區<br/>禮儀同業 各大通路 洽談配合 ❗️</h5>
-    ————————————————————————————
+    —————————————————————————————
     <p style="text-align:center"><B>🦁️開幕囍獅🦁️<br/>LED大字幕</B></p>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E9%96%8B%E5%B9%95%E5%9B%8D%E7%8D%85.jpg"
