@@ -25,7 +25,7 @@
 <body background="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%8D%B7%E8%8A%B13.jpg">
     <h1 style="text-align:center">
         騰揚開發會場佈置</h1>
-    <h2 style="text-align:center">歡　迎　來　電<br/>０９３６－４９５－３８０<br/>黃　先　生</h2>
+    <h2 style="text-align:center">歡　迎　來　電<br/>０９３６－４９５－３８０</h2>
     <h2.1>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%90%8D%E7%89%87.jpg"
