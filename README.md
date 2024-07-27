@@ -43,8 +43,7 @@
     <h3.2 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=50>🚚💨
         </marquee></h3.2>
-    <h4 style="text-align:center">
-        <marquee font-size="50px>
+    <h4 style="text-align:center" font-size="50px>
         治喪追思🏵️孝獅護主🏵️靈獅接引🏵️<br/>
         雄威體面🎩莊嚴隆重🎩代送禮品🎩</h4>
     <h5 style="text-align:center">
