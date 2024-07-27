@@ -13,8 +13,6 @@
         h2{color: rgb(240, 34, 240);
         font-size: 30px;}
         #h3{font-size: 50px;}
-        h3.1{font-size: 50px;}
-        h3.2{font-size: 50px;}
         h4{color: rgb(50, 167, 221);
         font-size: 30px;
         background-color: rgb(231, 209, 179);}
