@@ -5,15 +5,15 @@
     <title>產品介紹</title>
     <style>
         p{color:red;
-        font-size:25px;}
+        font-size:20px;}
         p2{color:black;
-        font-size:10px}
+        font-size:15px}
         h1{color: darkorange;
         font-size:50px;
         background-color: black}
         h2{color: rgb(240, 34, 240);
         font-size:30px;}
-        h3{font-size:50px;}
+        p3{font-size:50px;}
         h4{color: rgb(50, 167, 221);
         font-size:30px;
         background-color: rgb(231, 209, 179);}
@@ -35,9 +35,9 @@
             width="720"
             height="250"
             title="名片"></h2.1>
-    <h3 style="text-align:center">
+    <p3 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=5>🚚💨　🚚　　　　　🚚💨　　　　　　🚚💨　　🚚　　　　🚚　　🚚　　　🚚💨
-        </marquee></h3>
+        </marquee></p3>
     <h3.1 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=20>🚚
         </marquee></h3.1>
@@ -73,7 +73,8 @@
             width="1000"
             height="300"
             title="守孝靈獅1">
-    <p style="text-align:center">🦁️守孝靈獅🦁️<br/>LED大字幕<br/>習俗上獅子作為守護神，以孝獅護主之意，特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，在靈獅的守護下，逝世親人可以安全前往西方。</p>
+    <p style="text-align:center">🦁️守孝靈獅🦁️<br/>LED大字幕</p>
+    <p2 style="text-align:center">習俗上獅子作為守護神，以孝獅護主之意，特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，在靈獅的守護下，逝世親人可以安全前往西方。</p2>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%AE%88%E5%AD%9D%E9%9D%88%E7%8D%852.jpg"
             Hspace=""
