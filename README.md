@@ -10,8 +10,8 @@
         p2{color: rgb(240, 34, 240);
         font-size:30px;}
         p3{font-size:10px;}
-        p3.1{font-size:20px;}
-        p3.2{font-size:50px;}
+        p3-1{font-size:20px;}
+        p3-2{font-size:50px;}
         h4{color: rgb(50, 167, 221);
         font-size:25px;
         background-color: rgb(231, 209, 179);}
@@ -29,23 +29,23 @@
     <p1 style="text-align:center">
         騰揚開發會場佈置<br/></p1>
     <p2 style="text-align:center">歡　迎　來　電<br/>０９３６－４９５－３８０<br/></p2>
-    <p2.1>
+    <p2-1>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%90%8D%E7%89%87.jpg"
             Hspace=""
             alt="名片"
             width="720"
             height="250"
-            title="名片"><br/></p2.1>
+            title="名片"><br/></p21>
     <p3 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=5>🚚💨　🚚　　　　　🚚💨　　　　　　🚚💨　　🚚　　　　🚚　　🚚　　　🚚💨
         </marquee><br/></p3>
-    <p3.1 style="text-align:center">
+    <p3-1 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=20>🚚
-        </marquee><br/></p3.1>
-    <p3.2 style="text-align:center">
+        </marquee><br/></p3-1>
+    <p3-2 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=50>🚚💨
-        </marquee><br/></p3.2>
+        </marquee><br/></p3-2>
     <h4 style="text-align:center">
         治喪追思🏵️孝獅護主🏵️靈獅接引🏵️<br/>
         雄威體面🎩莊嚴隆重🎩代送禮品🎩<br/></h4>
