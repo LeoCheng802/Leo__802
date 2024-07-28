@@ -62,7 +62,8 @@
             width="1000"
             height="350"
             title="開幕囍獅">
-    <p style="text-align:center">🦁️守孝靈獅🦁️<br/>LED大字幕<br/>習俗上常會將獅子當作守護神，也有一說是孝獅護主的意義。 特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，希望在靈獅的守護下，逝世親人可以前往西方的路上，能不受任何干擾。</p>
+    <p style="text-align:center">🦁️守孝靈獅🦁️<br/>LED大字幕</p>
+    <p2 style="text-align:center">習俗上獅子作為守護神，以孝獅護主之意，特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，在靈獅的守護下，逝世親人可以安全前往西方。</p2>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%AE%88%E5%AD%9D%E9%9D%88%E7%8D%85.jpg"
             Hspace=""
@@ -70,7 +71,7 @@
             width="1000"
             height="300"
             title="守孝靈獅1">
-    <p style="text-align:center">🦁️守孝靈獅🦁️<br/>LED大字幕</p>
+    <p style="text-align:center">🦁️守孝靈獅🦁️<br/>LED大字幕<br/>習俗上獅子作為守護神，以孝獅護主之意，特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，在靈獅的守護下，逝世親人可以安全前往西方。</p>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%AE%88%E5%AD%9D%E9%9D%88%E7%8D%852.jpg"
             Hspace=""
