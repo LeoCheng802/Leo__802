@@ -81,7 +81,7 @@
             width="1000"
             height="300"
             title="守孝靈獅2">
-    <p style="text-align:center"🦁️酒櫃靈獅🦁️<br/>LED大字幕</p>
+    <p style="text-align:center">🦁️酒櫃靈獅🦁️<br/>>LED大字幕</p>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E9%85%92%E6%AB%83%E9%9D%88%E7%8D%85.jpg"
             Hspace=""
