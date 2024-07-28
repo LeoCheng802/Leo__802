@@ -5,29 +5,22 @@
     <title>產品介紹</title>
     <style>
         p1{color: darkorange;
-        text-align:center;
-        font-size:50px;
+        font-size:45px;
         background-color: black}
         p2{color: rgb(240, 34, 240);
-        text-align:center;
         font-size:30px;}
         p3{font-size:50px;}
         text-align:center;
         p4{color: rgb(50, 167, 221);
-        text-align:center;
         font-size:25px;
         background-color: rgb(231, 209, 179);}
         p5{color: rgb(126, 50, 50);
-        text-align:center;
         font-size:20px;}
         p6{color:red;
-        text-align:center;
         font-size:20px;}
         p7{color:black;
-        text-align:center;
         font-size:15px}
         a{font-size:30px;
-        text-align:center;}
         image{float:center}
     </style>
 </head>
