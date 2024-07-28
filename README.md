@@ -26,8 +26,8 @@
 </head>
 <body background="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%8D%B7%E8%8A%B1.jpg">
     <p1 style="text-align:center">
-        騰揚開發會場佈置</p1>
-    <p2 style="text-align:center">歡　迎　來　電<br/>０９３６－４９５－３８０</p2>
+        騰揚開發會場佈置<br/></p1>
+    <p2 style="text-align:center">歡　迎　來　電<br/>０９３６－４９５－３８０<br/></p2>
     <p2.1>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%90%8D%E7%89%87.jpg"
@@ -35,19 +35,19 @@
             alt="名片"
             width="720"
             height="250"
-            title="名片"></p2.1>
+            title="名片"><br/></p2.1>
     <p3 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=5>🚚💨　🚚　　　　　🚚💨　　　　　　🚚💨　　🚚　　　　🚚　　🚚　　　🚚💨
-        </marquee></p3>
+        </marquee><br/></p3>
     <p3.1 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=20>🚚
-        </marquee></p3.1>
+        </marquee><br/></p3.1>
     <p3.2 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=50>🚚💨
-        </marquee></p3.2>
+        </marquee><br/></p3.2>
     <p4 style="text-align:center">
         治喪追思🏵️孝獅護主🏵️靈獅接引🏵️<br/>
-        雄威體面🎩莊嚴隆重🎩代送禮品🎩</p4>
+        雄威體面🎩莊嚴隆重🎩代送禮品🎩<br/></p4>
     <p5 style="text-align:center">
         #９～１３層超大巨無霸米塔<br/>
         #５～１３層　幻彩平安米塔<br/>
@@ -55,7 +55,7 @@
         #開幕喜獅　#盤龍靈龍<br/>
         #持經大佛　#渡化觀音<br/>
         #觀音蓮花塔　#鑽石金條塔<br/>
-        專車配送🚚長期優惠 🤝<br/>歡迎各區<br/>禮儀同業 各大通路 洽談配合 ❗️</p5>
+        專車配送🚚長期優惠 🤝<br/>歡迎各區<br/>禮儀同業 各大通路 洽談配合 ❗️<br/></p5>
     ————————————————————————————
     <p6 style="text-align:center">🦁️開幕囍獅🦁️<br/>LED大字幕<br/>象徵業績長紅、財源廣進</p6>
         <img
