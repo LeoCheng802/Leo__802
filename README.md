@@ -9,8 +9,8 @@
         background-color: black}
         p2{color: rgb(240, 34, 240);
         font-size:30px;}
-        p3{font-size:10px;}
-        p3-1{font-size:20px;}
+        p3{font-size:15px;}
+        p3-1{font-size:30px;}
         p3-2{font-size:50px;}
         h4{color: rgb(50, 167, 221);
         font-size:25px;
