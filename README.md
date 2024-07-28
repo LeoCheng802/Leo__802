@@ -15,11 +15,11 @@
         text-align:center;
         p4{color: rgb(50, 167, 221);
         text-align:center;
-        font-size:30px;
+        font-size:25px;
         background-color: rgb(231, 209, 179);}
         p5{color: rgb(126, 50, 50);
         text-align:center;
-        font-size:25px;}
+        font-size:20px;}
         p6{color:red;
         text-align:center;
         font-size:20px;}
