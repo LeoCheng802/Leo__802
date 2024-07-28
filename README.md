@@ -6,6 +6,8 @@
     <style>
         p{color:red;
         font-size:25px;}
+        p2{color:black;
+        font-size:10px}
         h1{color: darkorange;
         font-size:50px;
         background-color: black}
