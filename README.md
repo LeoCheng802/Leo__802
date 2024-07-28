@@ -5,21 +5,29 @@
     <title>產品介紹</title>
     <style>
         p1{color: darkorange;
-        font-size:35px;
+        text-align:center;
+        font-size:50px;
         background-color: black}
         p2{color: rgb(240, 34, 240);
+        text-align:center;
         font-size:30px;}
         p3{font-size:50px;}
+        text-align:center;
         p4{color: rgb(50, 167, 221);
+        text-align:center;
         font-size:30px;
         background-color: rgb(231, 209, 179);}
         p5{color: rgb(126, 50, 50);
+        text-align:center;
         font-size:25px;}
         p6{color:red;
+        text-align:center;
         font-size:20px;}
         p7{color:black;
+        text-align:center;
         font-size:15px}
-        a{font-size:30px;}
+        a{font-size:30px;
+        text-align:center;}
         image{float:center}
     </style>
 </head>
@@ -64,7 +72,7 @@
             width="1000"
             height="350"
             title="開幕囍獅">
-    <p6 style="text-align:center">🦁️守孝靈獅🦁️<br/>LED大字幕</p6>
+    <p6 style="text-align:center">🦁️守孝靈獅🦁️<br/>LED大字幕<br/></p6>
     <p7 style="text-align:center">習俗上獅子作為守護神，以孝獅護主之意，特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，在靈獅的守護下，逝世親人可以安全前往西方。</p7>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%AE%88%E5%AD%9D%E9%9D%88%E7%8D%85.jpg"
@@ -82,7 +90,7 @@
             width="1000"
             height="300"
             title="守孝靈獅2">
-    <p6 style="text-align:center">🦁️酒櫃靈獅🦁️<br/>>LED大字幕</p6>
+    <p6 style="text-align:center">🦁️酒櫃靈獅🦁️<br/>LED大字幕</p6>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E9%85%92%E6%AB%83%E9%9D%88%E7%8D%85.jpg"
             Hspace=""
