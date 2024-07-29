@@ -17,7 +17,7 @@
         font-size:25px;
         background-color: rgb(231, 209, 179);}
         h5{color: rgb(126, 50, 50);
-        font-size:20px;}
+        text-size:20px;}
         p6{color:red;
         font-size:20px;}
         p7{color:black;
@@ -50,7 +50,7 @@
     <h4 class="text-center">
         治喪追思🏵️孝獅護主🏵️靈獅接引🏵️<br/>
         雄威體面🎩莊嚴隆重🎩代送禮品🎩</h4>
-    <h5 class="text-center">
+    <h5 class="text-center"text-size:20px>
         #９～１３層超大巨無霸米塔<br/>
         #５～１３層　幻彩平安米塔<br/>
         #守孝靈獅　#米櫃靈獅<br/>
