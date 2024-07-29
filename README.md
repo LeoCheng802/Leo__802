@@ -59,7 +59,7 @@
         #觀音蓮花塔　#鑽石金條塔<br/>
         專車配送🚚長期優惠 🤝<br/>歡迎各區<br/>禮儀同業 各大通路 洽談配合 ❗️<br/></p5>
     ————————————————————————————<br/>
-    <p6 style="text-align:center">🦁️開幕囍獅🦁️<br/>🧸LED大字幕<br/></p6>
+    <p6 style="text-align:center">🦁️開幕囍獅<br/>🧸LED大字幕<br/></p6>
     <p7 style="text-align:center">象徵業績長紅、財源廣進</p7>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E9%96%8B%E5%B9%95%E5%9B%8D%E7%8D%85.jpg"
@@ -68,7 +68,7 @@
             width="1000"
             height="350"
             title="開幕囍獅">
-    <p6 style="text-align:center">🦁️守孝靈獅🦁️<br/>🧸LED大字幕<br/></p6>
+    <p6 style="text-align:center">🦁️守孝靈獅<br/>🧸LED大字幕<br/></p6>
     <p7 style="text-align:center">習俗上獅子作為守護神，以孝獅護主之意，特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，在靈獅的守護下，逝世親人可以安全前往西方。</p7>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%AE%88%E5%AD%9D%E9%9D%88%E7%8D%85.jpg"
@@ -77,7 +77,7 @@
             width="1000"
             height="300"
             title="守孝靈獅1">
-    <p6 style="text-align:center">🦁️守孝靈獅🦁️<br/>🧸LED大字幕<br/></p6>
+    <p6 style="text-align:center">🦁️守孝靈獅<br/>🧸LED大字幕<br/></p6>
     <p7 style="text-align:center">習俗上獅子作為守護神，以孝獅護主之意，特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，在靈獅的守護下，逝世親人可以安全前往西方。</p7>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%AE%88%E5%AD%9D%E9%9D%88%E7%8D%852.jpg"
@@ -86,7 +86,7 @@
             width="1000"
             height="300"
             title="守孝靈獅2">
-    <p6 style="text-align:center">🦁️酒櫃靈獅🦁️<br/>🧸LED大字幕<br/></p6>
+    <p6 style="text-align:center">🦁️酒櫃靈獅<br/>🧸LED大字幕<br/></p6>
     <p7 style="text-align:center">習俗上獅子作為守護神，以孝獅護主之意，特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，在靈獅的守護下，逝世親人可以安全前往西方。</p7>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E9%85%92%E6%AB%83%E9%9D%88%E7%8D%85.jpg"
@@ -113,7 +113,7 @@
             width="1000"
             height="250"
             title="渡化觀音小佛">
-    <p6 style="text-align:center">🐉盤龍巨龍🐉<br/>🧸LED大字幕</p6>
+    <p6 style="text-align:center">🐉盤龍巨龍<br/>🧸LED大字幕</p6>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E7%9B%A4%E9%BE%8D%E5%B7%A8%E9%BE%8D.jpg"
             Hspace=""
