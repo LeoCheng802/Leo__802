@@ -69,7 +69,7 @@
             alt="開幕囍獅"
             width="1000"
             height="350"
-            title="開幕囍獅">
+            title="開幕囍獅"><br/>
     <p6 style="text-align:center">🦁️守孝靈獅（款式一）<p8>１００００＄</p8><br/>🧸LED大字幕<br/></p6>
     <p7 style="text-align:center">習俗上獅子作為守護神，以孝獅護主之意，特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，在靈獅的守護下，逝世親人可以安全前往西方。</p7>
         <img
@@ -78,7 +78,7 @@
             alt="守孝靈獅1"
             width="1000"
             height="300"
-            title="守孝靈獅1">
+            title="守孝靈獅1"><br/>
     <p6 style="text-align:center">🦁️守孝靈獅（款式二）<p8>１００００＄</p8><br/>🧸LED大字幕<br/></p6>
     <p7 style="text-align:center">習俗上獅子作為守護神，以孝獅護主之意，特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，在靈獅的守護下，逝世親人可以安全前往西方。</p7>
         <img
@@ -87,7 +87,7 @@
             alt="守孝靈獅2"
             width="1000"
             height="300"
-            title="守孝靈獅2">
+            title="守孝靈獅2"><br/>
     <p6 style="text-align:center">🦁️酒櫃靈獅<p8>１００００＄</p8><br/>🧸LED大字幕<br/></p6>
     <p7 style="text-align:center">習俗上獅子作為守護神，以孝獅護主之意，特請靈獅來接引，表示為逝世親人好好的引路，護送至西方佛陀世界，是孝道的一種方式，在靈獅的守護下，逝世親人可以安全前往西方。</p7>
         <img
@@ -96,7 +96,7 @@
             alt="酒櫃靈獅"
             width="1000"
             height="350"
-            title="酒櫃靈獅">
+            title="酒櫃靈獅"><br/>
     <p6 style="text-align:center">📿持經觀音大佛🦁️守孝靈獅<p8>１２０００＄</p8><br/>🧸LED大字幕<br/></p6>
     <p7 style="text-align:center">阿彌陀佛接引是往生之人命終之時，被陀佛接引至西方極樂淨土；令亡者往生後，永脫輪迴之苦，永享極樂諸樂，速速成佛。</p7>
         <img
@@ -105,7 +105,7 @@
             alt="持經觀音大佛"
             width="1000"
             height="300"
-            title="持經觀音大佛、守孝靈獅">
+            title="持經觀音大佛、守孝靈獅"><br/>
     <p6 style="text-align:center">꧁渡化觀音小佛꧂<p8>５０００＄</p8><br/>🧸LED大字幕<br/></p6>
     <p7 style="text-align:center">將自己所修的一切福慧，一切功德，不為自己求人天福報的安樂，迴向給一切眾生，令眾生得到大自在解脫與究竟常樂。</p7>
         <img
@@ -114,7 +114,7 @@
             alt="渡化觀音小佛"
             width="1000"
             height="250"
-            title="渡化觀音小佛">
+            title="渡化觀音小佛"><br/>
     <p6 style="text-align:center">🐉盤龍巨龍<p8>２００００＄</p8><br/>🧸LED大字幕<br/></p6>
     <p7 style="text-align:center">端莊、隆重之意</p7>
         <img
@@ -123,8 +123,8 @@
             alt="盤龍巨龍"
             width="1000"
             height="450"
-            title="盤龍巨龍">
-    <p6 style="text-align:center">🗼９～１３層💮超級巨無霸米塔💮<p8>８５０００＄</p8><br/>🧸LED大字幕<br/></p6>
+            title="盤龍巨龍"><br/>
+    <p6 style="text-align:center">🗼９～１３層💮超級巨無霸米塔💮<br/><p8>８５０００＄</p8><br/>🧸LED大字幕<br/></p6>
     <p7 style="text-align:center">米塔的由來
 米在古時被視為昂貴食物，只在婚喪喜慶及過年過節時才可吃上白米，即使家中從事務農植種稻米的農家也不一定常常吃到白米，一般都會將稻米拿去販售吃番薯代替。<br/>
 因此古代喪事中，左鄰右舍會互相照顧，提供飼養的禽類或稻米贈給喪家，讓喪家不必在處理喪事時沒糧食吃，可以好好辦喪，與喪用罐頭塔有一樣的含意，是早期送上柴米油鹽的延伸品。</p7>
@@ -134,59 +134,59 @@
             alt="超級巨無霸米塔1"
             width="1000"
             height="600"
-            title="超級巨無霸米塔1">
+            title="超級巨無霸米塔1"><br/>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%942.jpg"
             Hspace=""
             alt="超級巨無霸米塔2"
             width="480"
             height="600"
-            title="超級巨無霸米塔2">
+            title="超級巨無霸米塔2"><br/>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%B6%85%E7%B4%9A%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
             Hspace=""
             alt="超級巨無霸米塔3"
             width="480"
             height="600"
-            title="超級巨無霸米塔3">
-    <p6 style="text-align:center">🗼９～１３層💮中型巨無霸米塔💮<p8>４００００＄</p8><br/>🧸LED大字幕<br/>
+            title="超級巨無霸米塔3"><br/>
+    <p6 style="text-align:center">🗼９～１３層💮中型巨無霸米塔💮<br/><p8>４００００＄</p8><br/>🧸LED大字幕<br/>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%941.jpg"
             Hspace=""
             alt="中型巨無霸米塔1"
             width="1000"
             height="300"
-            title="中型巨無霸米塔1">
+            title="中型巨無霸米塔1"><br/>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%942.jpg"
             Hspace=""
             alt="中型巨無霸米塔2"
             width="480"
             height="600"
-            title="中型巨無霸米塔2">
+            title="中型巨無霸米塔2"><br/>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E4%B8%AD%E5%9E%8B%E5%B7%A8%E7%84%A1%E9%9C%B8%E7%B1%B3%E5%A1%943.jpg"
             Hspace=""
             alt="中型巨無霸米塔3"
             width="480"
             height="600"
-            title="中型巨無霸米塔3">
-    <p6 style="text-align:center">🗼５～１３層💮幻彩米塔💮<p8>＄１０５００～２４０００</p8><br/>🧸LED大字幕<br/></p6>
+            title="中型巨無霸米塔3"><br/>
+    <p6 style="text-align:center">🗼５～１３層💮幻彩米塔💮<br/><p8>＄１０５００～２４０００</p8><br/>🧸LED大字幕<br/></p6>
     <img
         src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%B9%BB%E5%BD%A9%E7%B1%B3%E5%A1%94.jpg"
         Hspace=""
         alt="幻彩米塔"
         width="1000"
         height="600"
-        title="幻彩米塔">
-    <p6 style="text-align:center">🗼５～１３層💮平安米塔💮<p8>＄９０００～２３０００</p8><br/>🧸LED大字幕<br/></p6>
+        title="幻彩米塔"><br/>
+    <p6 style="text-align:center">🗼５～１３層💮平安米塔💮<br/><p8>＄９０００～２３０００</p8><br/>🧸LED大字幕<br/></p6>
     <img
         src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%B9%B3%E5%AE%89%E7%B1%B3%E5%A1%94.jpg"
         Hspace=""
         alt="平安米塔"
         width="1000"
         height="200"
-        title="平安米塔">
+        title="平安米塔"><br/>
     <p6 style="text-align:center">💎金磚塔💎<p8>３２００＄</p8><br/>🏵️蓮花塔🏵️<p8>３０００＄</p8><br/></p6>
     <p7 style="text-align:center">希望往生者可以踩上紅蓮，早日到達西方極樂世界，而往生者在天之靈也能感受到後代對於他們的尊重與深愛。<br/>蓮花塔不僅是對往生者的一種祝福，也是表達思念與敬意。</p7>
     <img
