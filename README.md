@@ -17,7 +17,7 @@
         font-size:25px;
         background-color: rgb(231, 209, 179);}
         h5{color: rgb(126, 50, 50);
-        text-size:20px;}
+        text-size:20000px;}
         p6{color:red;
         font-size:20px;}
         p7{color:black;
