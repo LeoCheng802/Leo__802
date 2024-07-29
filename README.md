@@ -16,7 +16,7 @@
         h4{color: rgb(50, 167, 221);
         font-size:25px;
         background-color: rgb(231, 209, 179);}
-        p5{color: rgb(126, 50, 50);
+        h5{color: rgb(126, 50, 50);
         font-size:20px;}
         p6{color:red;
         font-size:20px;}
@@ -47,17 +47,17 @@
     <p3-2 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=50>🚚💨
         </marquee><br/></p3-2>
-    <h4 style="text-align:center">
+    <h4 class="text-center">
         治喪追思🏵️孝獅護主🏵️靈獅接引🏵️<br/>
         雄威體面🎩莊嚴隆重🎩代送禮品🎩</h4>
-    <p5 class="text-center">
+    <h5 class="text-center">
         #９～１３層超大巨無霸米塔<br/>
         #５～１３層　幻彩平安米塔<br/>
         #守孝靈獅　#米櫃靈獅<br/>
         #開幕喜獅　#盤龍靈龍<br/>
         #持經大佛　#渡化觀音<br/>
         #觀音蓮花塔　#鑽石金條塔<br/>
-        專車配送🚚長期優惠 🤝<br/>歡迎各區<br/>禮儀同業 各大通路 洽談配合 ❗️<br/></p5>
+        專車配送🚚長期優惠 🤝<br/>歡迎各區<br/>禮儀同業 各大通路 洽談配合 ❗️<br/></h5>
     ————————————————————————————<br/>
     <p6 style="text-align:center">🦁️開幕囍獅🦁️<br/>LED大字幕<br/>象徵業績長紅、財源廣進</p6>
         <img
