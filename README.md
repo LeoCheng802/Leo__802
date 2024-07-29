@@ -114,7 +114,7 @@
             height="250"
             title="渡化觀音小佛">
     <p6 style="text-align:center">🐉盤龍巨龍<br/>🧸LED大字幕<br/></p6>
-    <p7 style="text-align:center">２００００＄
+    <p7 style="text-align:center">端莊、隆重之意<br/>２００００＄
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E7%9B%A4%E9%BE%8D%E5%B7%A8%E9%BE%8D.jpg"
             Hspace=""
