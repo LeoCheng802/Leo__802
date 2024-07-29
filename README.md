@@ -8,7 +8,7 @@
         h1{color: darkorange;
         font-size:45px;
         background-color: black}
-        p2{color: rgb(240, 34, 240);
+        h2{color: rgb(240, 34, 240);
         font-size:30px;}
         p3{font-size:15px;}
         p3-1{font-size:30px;}
@@ -23,13 +23,13 @@
         p7{color:black;
         font-size:15px}
         a{font-size:30px;
-        image{float:center}
+        image float:center}
     </style>
 </head>
 <body background="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E8%8D%B7%E8%8A%B1.jpg">
-    <h1 class="text-center">
+    <h1 style="text-align:center">
         騰揚開發會場佈置<br/></h1>
-    <p2 class="text-center">歡　迎　來　電<br/>０９３６－４９５－３８０<br/></p2>
+    <h2 style="text-align:center">歡　迎　來　電<br/>０９３６－４９５－３８０<br/></h2>
     <p2-1>
         <img
             src="https://raw.githubusercontent.com/LeoCheng802/Leo__802/main/assets/images/%E5%90%8D%E7%89%87.jpg"
@@ -47,10 +47,10 @@
     <p3-2 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=50>🚚💨
         </marquee><br/></p3-2>
-    <h4 class="text-center">
+    <h4 style="text-align:center">
         治喪追思🏵️孝獅護主🏵️靈獅接引🏵️<br/>
         雄威體面🎩莊嚴隆重🎩代送禮品🎩</h4>
-    <p5 class="text-center">
+    <p5 style="text-align:center">
         #９～１３層超大巨無霸米塔<br/>
         #５～１３層　幻彩平安米塔<br/>
         #守孝靈獅　#米櫃靈獅<br/>
