@@ -26,7 +26,8 @@
         font-family: '標楷體';}
         h7{color:black;
         font-size:15px;
-        font-family: '標楷體';}
+        font-family: '標楷體';
+        text-align: center;}
         h8{color:black;
         background-color: rgb(231, 209, 179);
         font-family: '標楷體';}
