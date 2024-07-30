@@ -56,9 +56,9 @@
     <p3-2 style="text-align:center">
         <marquee width="1000" direction=left scrollamount=50>🚚💨
         </marquee><br/></p3-2>
-    <h4 style="text-align:center">
+    <h4 style="text-align:center"><br/>
         治喪追思🏵️孝獅護主🏵️靈獅接引🏵️<br/>
-        雄威體面🎩莊嚴隆重🎩代送禮品🎩
+        雄威體面🎩莊嚴隆重🎩代送禮品🎩<br/>
     <h5 style="text-align:center">
         #９～１３層超大巨無霸米塔<br/>
         #５～１３層　幻彩平安米塔<br/>
